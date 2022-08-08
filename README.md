@@ -23,7 +23,7 @@
 ### Learning Python
 **Description:** I have compiled a list of Python coding that I have used while completing tasks for various online learning courses I have undertaken.
 <br>
-**Repository**: ['Python_Repository']
+**Repository**: ['Python_Repository'](https://github.com/TK96-Data/Python_Learning_Log/tree/main#readme)
 <br>
 **Status:** Ongoing
 
